@@ -14,7 +14,7 @@ get_post[$1]=$2
 done
 </pre>
 
-# cgi bash cara penggunaan
+# cara penggunaan
 <pre>
 status=${get_post['test']}
 if [ "$status" == "ok" ];then
