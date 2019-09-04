@@ -13,7 +13,10 @@ set -- $i
 get_post[$1]=$2
 done
 </pre>
-
+# Contoh Query
+<pre>
+QUERY="test=ok&input=input%20data"
+</pre>
 # cara penggunaan
 <pre>
 status=${get_post['test']}
