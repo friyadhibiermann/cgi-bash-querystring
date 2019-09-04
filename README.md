@@ -15,11 +15,13 @@ done
 </pre>
 
 # cgi bash cara penggunaan
+<pre>
 status=${get_post['test']}
 if [ "$status" == "ok" ];then
  input=${get_post['input']}
  echo "$input" | sed "s/%20/ /g"
 fi
+</pre>
 
 # cgi-bash-querystring screenshoot
 <img height="500" width="300" src="ss.PNG"></img>
