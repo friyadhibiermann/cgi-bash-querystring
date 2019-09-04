@@ -27,6 +27,7 @@ if [ "$status" == "ok" ];then
 fi
 </pre>
 
+# PENJELASAN DARI SCRIPT DI ATAS
 # cgi bash fungsi script
 <pre>
 ## Parsing QueryString
