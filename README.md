@@ -1,2 +1,2 @@
 # cgi-bash-querystring
-<img height="80" width="80" src="ss.PNG"></img>
+<img height="300" width="300" src="ss.PNG"></img>
